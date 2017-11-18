@@ -5,4 +5,4 @@ If a new nick name is entered that does not exists in the data base then a file 
 Transparency action is also added. to higlight or de-highlight double click on the text box.
 To move the text box click on the text entry and drag.
 
-Planning to add more updates to add to perform mathamatical operations and open browser links etc.
+Planning to add more updates to perform mathamatical operations and open browser links etc.
