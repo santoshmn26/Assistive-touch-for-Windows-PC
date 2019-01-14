@@ -15,5 +15,4 @@ desk,C:/Users/santo/OneDrive/Desktop
 home,C:/Users/santo/OneDrive/Desktop
 toucher,C:/Users/santo/Downloads/Backup files/Scripts/Toucher
 pics,C:/Users/santo/OneDrive/Pictures
-pass,Dadadas1!
 resume,C:/Users/santo/Downloads/Imp files
