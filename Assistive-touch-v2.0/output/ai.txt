@@ -1,0 +1,19 @@
+aws_face,C:/Users/santo/Downloads/Backup files/Face_recognition/aws/AWS Face Rekognition
+downloads,C:/Users/santo/Downloads
+new_downloads,C:/Users/santo/Downloads/New folder (2)
+scripts,C:/Users/santo/Downloads/Backup files/Scripts
+chrome,C:/Program Files (x86)/Google/Chrome/Application/chrome.exe
+cmd,C:/Windows/System32/cmd.exe
+calc,C:/Windows/System32/calc.exe
+vmware,C:/Program Files (x86)/VMware/VMware Player/vmplayer.exe
+notepad,C:/Program Files (x86)/Notepad++/notepad++.exe
+yolo,C:/Users/santo/Downloads/Backup files/darkflow-master
+control,C:/Windows/System32/control.exe
+taskmgr,C:/Windows/System32/Taskmgr.exe
+documents,C:/Users/santo/OneDrive/Documents
+desk,C:/Users/santo/OneDrive/Desktop
+home,C:/Users/santo/OneDrive/Desktop
+toucher,C:/Users/santo/Downloads/Backup files/Scripts/Toucher
+pics,C:/Users/santo/OneDrive/Pictures
+pass,Dadadas1!
+resume,C:/Users/santo/Downloads/Imp files
