@@ -10,6 +10,7 @@ import webbrowser
 import json
 
 
+
 class settings:
     def get_radiobutton(self,v):
         if(v==2):
@@ -29,6 +30,7 @@ class settings:
         
 # Exit
     def cancel(self):
+        self.settings_window_active=0
         self.root.destroy()
 
 # Add new file
@@ -139,6 +141,7 @@ class settings:
         self.database_dict = dict()
         self.database_file = "data/database.txt"
         self.login_database = "data/login.txt"
+        self.settings_window_active=1
         frame0 = ttk.Frame(main_frame)
         frame1 = ttk.Frame(main_frame)
         frame2 = ttk.Frame(main_frame)
