@@ -1,1 +1,12 @@
+documents,c:/Users/santo/Documents
+downloads,c:/Users/santo/Downloads
+pictures,c:/Users/santo/Pictures
+music,c:/Users/santo/Music
+videos,c:/Users/santo/Videos
+control,c:/Windows/system32/control.exe
+settings,c:/Windows/system32/settings.exe
+calc,c:/Windows/system32/calc.exe
+cmd,c:/Windows/system32/cmd.exe
+notepad,c:/Windows/system32/notepad.exe
+SnippingTool,c:/Windows/system32/SnippingTool.exe
 
